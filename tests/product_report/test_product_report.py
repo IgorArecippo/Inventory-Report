@@ -12,7 +12,7 @@ def product() -> Product:
         manufacturing_date="13-07-2023",
         expiration_date="13-07-2023",
         serial_number="ABC123",
-        storage_instructions="Store in a cool place."
+        storage_instructions="Store in a cool place"
     )
 
 
